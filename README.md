@@ -1,4 +1,4 @@
-BONUS :
+BONUS TP1 :
 
 - Ajout d'une forme complexe : le Requin.
 - Ajout d'une animation spécialisée pour le Requin : il tourne en rond et 
