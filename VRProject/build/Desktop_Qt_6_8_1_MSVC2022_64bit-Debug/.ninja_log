@@ -1,0 +1,13 @@
+# ninja log v6
+46	266	7554712266497479	D:/Cours/5/VR/VRProject/build/Desktop_Qt_6_8_1_MSVC2022_64bit-Debug/VRProject_autogen/timestamp	f500389d29238efc
+159	495	7554341562858223	CMakeFiles/VRProject.dir/VRProject_autogen/EWIEGA46WW/qrc_VRResources.cpp.obj	147c9bde993025b
+46	266	7554712266497479	VRProject_autogen/timestamp	f500389d29238efc
+46	266	7554712266497479	VRProject_autogen/mocs_compilation.cpp	f500389d29238efc
+268	3032	7554712268707464	CMakeFiles/VRProject.dir/vrwidget.cpp.obj	a3d7555c7161316f
+53	158	7554341562708209	D:/Cours/5/VR/VRProject/build/Desktop_Qt_6_8_1_MSVC2022_64bit-Debug/VRProject_autogen/EWIEGA46WW/qrc_VRResources.cpp	f9f7d158cf76da09
+46	266	7554712266497479	D:/Cours/5/VR/VRProject/build/Desktop_Qt_6_8_1_MSVC2022_64bit-Debug/VRProject_autogen/mocs_compilation.cpp	f500389d29238efc
+274	2900	7554712268777770	CMakeFiles/VRProject.dir/mainwindow.cpp.obj	c7cede46d3528b09
+907	3785	7554706997134601	CMakeFiles/VRProject.dir/VRProject_autogen/mocs_compilation.cpp.obj	7c0dea104ebb4e06
+53	158	7554341562708209	VRProject_autogen/EWIEGA46WW/qrc_VRResources.cpp	f9f7d158cf76da09
+658	3159	7553758195636142	CMakeFiles/VRProject.dir/main.cpp.obj	3d2b0f1ff41fda36
+3032	3362	7554712296359306	VRProject.exe	a0a2aeb5967256fc
